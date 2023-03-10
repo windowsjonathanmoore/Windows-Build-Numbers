@@ -753,7 +753,7 @@
 
 <tr>
 <td>Windows 11, Version 21H2</td>
-<td>11.0</td>
+<td>10.0</td>
 <td>22000</td>
 <td>2021-10-04</td>
 <td></td>
